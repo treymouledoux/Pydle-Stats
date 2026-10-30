@@ -3,13 +3,13 @@
 My attempts at [Pydle](https://pydle.net), one Python puzzle at a time 🐍
 
 <!-- pydle-progress:start -->
-**30 / 248 games completed** · **12.1%** · **32 attempted**
+**31 / 248 games completed** · **12.5%** · **33 attempted**
 
-**15 hard** · **15 easy only** · **2 broken** · **216 unattempted**
+**16 hard** · **15 easy only** · **2 broken** · **215 unattempted**
 
-**Average score: 129.1 characters** across completed games
+**Average score: 127.7 characters** across completed games
 
-**Best score:** 79 characters / [#87 Fries.py](games/%2387%20Fries.py)
+**Best score:** 74 characters / [#87 Fries.py](games/%2387%20Fries.py)
 
 ![Pydle pie chart](assets/pydle-progress.svg)
 <!-- pydle-progress:end -->
