@@ -11,3 +11,15 @@ for x in r:
             c = "red"
 
         pydle(x, y, "", c)
+
+#Final Solution 74 / 250 chars
+for i in range(25):
+    c = "yellow"
+
+    if i % 2:
+        c = "white"
+
+    if i > 4:
+        c = "red"
+
+    pydle(i % 5, i // 5, "", c)
