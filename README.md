@@ -3,11 +3,11 @@
 My attempts at [Pydle](https://pydle.net), one Python puzzle at a time 🐍
 
 <!-- pydle-progress:start -->
-**31 / 266 games completed** · **11.7%** · **33 attempted**
+**35 / 267 games completed** · **13.1%** · **37 attempted**
 
-**16 hard** · **15 easy only** · **2 broken** · **233 unattempted**
+**18 hard** · **17 easy only** · **2 broken** · **230 unattempted**
 
-**Average score: 127.7 characters** across completed games
+**Average score: 126.6 characters** across completed games
 
 **Best score:** 74 characters / [#87 Fries.py](games/%2387%20Fries.py)
 
