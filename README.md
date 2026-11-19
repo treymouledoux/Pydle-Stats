@@ -3,9 +3,9 @@
 My attempts at [Pydle](https://pydle.net), one Python puzzle at a time 🐍
 
 <!-- pydle-progress:start -->
-**35 / 267 games completed** · **13.1%** · **37 attempted**
+**35 / 268 games completed** · **13.1%** · **37 attempted**
 
-**18 hard** · **17 easy only** · **2 broken** · **230 unattempted**
+**18 hard** · **17 easy only** · **2 broken** · **231 unattempted**
 
 **Average score: 126.6 characters** across completed games
 
