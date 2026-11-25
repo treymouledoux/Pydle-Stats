@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-labelledby="title desc">
 <title id="title">Pydle Stats</title>
-<desc id="desc">Hard: 18, Easy only: 17, Broken: 2, Unattempted: 236</desc>
+<desc id="desc">Hard: 18, Easy only: 17, Broken: 2, Unattempted: 237</desc>
 <rect width="640" height="280" rx="18" fill="#0f172a"/>
 <text x="280" y="60" font-family="sans-serif" font-size="24" fill="white">Pydle Stats</text>
-<path d="M 140 140 L 140.0000 40.0000 A 100 100 0 0 1 180.2527 48.4592 Z" fill="#3b82f6"/>
+<path d="M 140 140 L 140.0000 40.0000 A 100 100 0 0 1 180.1143 48.3984 Z" fill="#3b82f6"/>
 <circle cx="290" cy="95" r="6" fill="#3b82f6"/><text x="308" y="100" font-family="sans-serif" font-size="16" fill="white">Hard: 18</text>
-<path d="M 140 140 L 180.2527 48.4592 A 100 100 0 0 1 212.1202 70.7276 Z" fill="#22c55e"/>
+<path d="M 140 140 L 180.1143 48.3984 A 100 100 0 0 1 211.9163 70.5158 Z" fill="#22c55e"/>
 <circle cx="290" cy="125" r="6" fill="#22c55e"/><text x="308" y="130" font-family="sans-serif" font-size="16" fill="white">Easy only: 17</text>
-<path d="M 140 140 L 212.1202 70.7276 A 100 100 0 0 1 215.2314 74.1195 Z" fill="#eab308"/>
+<path d="M 140 140 L 211.9163 70.5158 A 100 100 0 0 1 215.0263 73.8860 Z" fill="#eab308"/>
 <circle cx="290" cy="155" r="6" fill="#eab308"/><text x="308" y="160" font-family="sans-serif" font-size="16" fill="white">Broken: 2</text>
-<path d="M 140 140 L 215.2314 74.1195 A 100 100 0 1 1 140.0000 40.0000 Z" fill="#ef4444"/>
-<circle cx="290" cy="185" r="6" fill="#ef4444"/><text x="308" y="190" font-family="sans-serif" font-size="16" fill="white">Unattempted: 236</text>
+<path d="M 140 140 L 215.0263 73.8860 A 100 100 0 1 1 140.0000 40.0000 Z" fill="#ef4444"/>
+<circle cx="290" cy="185" r="6" fill="#ef4444"/><text x="308" y="190" font-family="sans-serif" font-size="16" fill="white">Unattempted: 237</text>
 <text x="280" y="240" font-family="sans-serif" font-size="16" fill="#cbd5e1">12.8% completed</text>
 <text x="620" y="265" text-anchor="end" font-family="sans-serif" font-size="11" fill="#94a3b8">Made by Trey Mouledoux</text></svg>
